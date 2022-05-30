@@ -8,8 +8,7 @@ I aim to make everythings here TRUE:
 - Executable with code
 - Understandable with *just enough* context and examples
 - Reusable with simple & clear API (e.g. function, class, package)
-- Transferable to another field, using best practice graph ML and  ADEPT thinking= Analogy+Diagram+Example+PlainStory+TechnicalRepresentation
-
+- Transferable to another field, using best practice graph ML and  ADEPT thinking= Analogy+Diagram+Example+PlainStorytelling+TechnicalAbstraction
 
 
 ## Blogpost
